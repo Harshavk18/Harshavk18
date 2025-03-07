@@ -21,7 +21,6 @@ I'm a **Data Engineer** with over 4 years of experience specializing in **Python
 - **[spotify_End_to_End-data-pipeline](https://github.com/Harshavk18/spotify_End_to_End-data-pipeline)**: Developed an end-to-end data pipeline for Spotify data to analyze user listening behavior.
 
 ## 📊 GitHub Stats
-![Harsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshavk18&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshavk18&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
